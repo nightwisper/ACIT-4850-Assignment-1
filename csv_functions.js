@@ -16,15 +16,16 @@ const parseCSV = (filePath) => {
                 crn: data[2],
                 course: data[3],
                 type: data[4],
-                stime: data[5],
-                etime: data[6],
-                instructor: data[7],
-                room: data[8],
-                sdate: data[9],
-                edate: data[10],
-                max: data[11],
-                act: data[12],
-                hrs: data[13]
+                day: data[5],
+                stime: data[6],
+                etime: data[7],
+                instructor: data[8],
+                room: data[9],
+                sdate: data[10],
+                edate: data[11],
+                max: data[12],
+                act: data[13],
+                hrs: data[14]
             }
 
             test.push(obj);
@@ -43,6 +44,8 @@ const parseCSV = (filePath) => {
         console.log("Last Entry: \n")
         console.log(JSON.stringify(test[test.length - 1], undefined, 2));
         process.exit()
+
+        return (test);
     });
 }
 

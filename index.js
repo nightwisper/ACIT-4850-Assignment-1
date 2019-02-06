@@ -1,3 +1,3 @@
 const { parseCSV } = require('./csv_functions');
 
-parseCSV('./data.csv');
+var parsed_data = parseCSV('./data.csv');
