@@ -1,5 +1,5 @@
 <!ELEMENT term (set,day,course+)>
-<!ELEMENT set (day,course+)>
+<!ELEMENT set (day)>
 <!ATTLIST set
 	program CDATA #REQUIRED
 	set CDATA #REQUIRED
@@ -16,13 +16,13 @@
 >
 <!ELEMENT type (#PCDATA)>
 <!ELEMENT name (#PCDATA)>
-<!ELEMENT times (start,end)>
+<!ELEMENT times (#PCDATA)>
 <!ATTLIST times 
 	start CDATA #REQUIRED
 	end CDATA #REQUIRED
 >
 <!ELEMENT instructor (#PCDATA)>
-<!ELEMENT dates (start,end)>
+<!ELEMENT dates (#PCDATA)>
 <!ATTLIST dates
 	start CDATA #REQUIRED
 	end CDATA #REQUIRED
