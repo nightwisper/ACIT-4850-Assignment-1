@@ -3,7 +3,8 @@
 ## Usage:
 
 ```sh
-node index.js <program>
+npm i # Install all dependencies
+node index.js <program> # Example: node index.js ACIT
 ```
 
 ## File output

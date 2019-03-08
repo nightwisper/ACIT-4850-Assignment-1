@@ -1,7 +1,7 @@
 const { parseCSV } = require('./csv_functions');
 const fs = require('fs');
 const http = require('http');
-var program = process.argv[2];
+var program = process.argv[2].toUpperCase();
 var out = `<h1> Program: ${program} </h1><br>`;
 var xml = `<?xml version="1.0"?>
 <!DOCTYPE term SYSTEM "schedules.dtd">
@@ -10,15 +10,16 @@ var xml = `<?xml version="1.0"?>
 var xmldoc = require('xmldoc')
 
 parseCSV('./data.csv').then((data) => {
-    // console.log(data);
 
     var valid_entries = data.filter((entry)=>{
         return entry.program === program;
     });
 
+    // console.log(valid_entries)
     var mon = valid_entries.filter((entry) => {
         return entry.day.toLowerCase() === 'mon';
     });
+
     var tue = valid_entries.filter((entry) => {
         return entry.day.toLowerCase() === 'tue';
     });
