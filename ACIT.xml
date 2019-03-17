@@ -1,0 +1,738 @@
+<?xml version="1.0"?>
+<!DOCTYPE term SYSTEM "schedules.dtd">
+<term>
+        <set program="ACIT" set="1A">
+            <day code="Mon">
+                <course crn="34319">
+                    <name>ACIT1515</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Lane, Thomas F"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1A">
+            <day code="Mon">
+                <course crn="34328">
+                    <name>COMM1116</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Rockall, Matthew"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>24</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1B">
+            <day code="Mon">
+                <course crn="34329">
+                    <name>COMM1116</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Rockall, Matthew"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>22</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1C">
+            <day code="Mon">
+                <course crn="41869">
+                    <name>ACIT1515</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Lane, Thomas F"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>26</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2A">
+            <day code="Mon">
+                <course crn="44948">
+                    <name>ACIT2515</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Mulder, Mike"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>21</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2A">
+            <day code="Mon">
+                <course crn="44977">
+                    <name>MATH1350</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Hajikolaei, Kambiz Haji"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2B">
+            <day code="Mon">
+                <course crn="44949">
+                    <name>ACIT2515</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Mulder, Mike"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>17</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2B">
+            <day code="Mon">
+                <course crn="44978">
+                    <name>MATH1350</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Hajikolaei, Kambiz Haji"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>18</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3A">
+            <day code="Mon">
+                <course crn="45155">
+                    <name>ACIT3420</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Zhang, Lei"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>24</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3A">
+            <day code="Mon">
+                <course crn="45157">
+                    <name>ACIT3771</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Shah, Vidhi"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>22</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3B">
+            <day code="Mon">
+                <course crn="45156">
+                    <name>ACIT3420</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Zhang, Lei"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>20</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3B">
+            <day code="Mon">
+                <course crn="45158">
+                    <name>ACIT3771</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Shah, Vidhi"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>19</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1A">
+            <day code="Tue">
+                <course crn="34334">
+                    <name>ORGB1100</name>
+                    <type>A</type>
+                    <times start="830" end="1050"></times>
+                    <instructor>" Morgan, Peter A"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>23</act>
+                    <hrs>2.33</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1B">
+            <day code="Tue">
+                <course crn="34323">
+                    <name>ACIT1620</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Hart, Richard"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1B">
+            <day code="Tue">
+                <course crn="34335">
+                    <name>ORGB1100</name>
+                    <type>A</type>
+                    <times start="1330" end="1550"></times>
+                    <instructor>" Morgan, Peter A"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>21</act>
+                    <hrs>2.33</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1C">
+            <day code="Tue">
+                <course crn="44946">
+                    <name>ACIT1420</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Zhang, Lei"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1C">
+            <day code="Tue">
+                <course crn="41873">
+                    <name>COMM1116</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Rockall, Matthew"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2A">
+            <day code="Tue">
+                <course crn="45151">
+                    <name>ACIT2420</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Parry, James"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>24</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2B">
+            <day code="Tue">
+                <course crn="44952">
+                    <name>ACIT2520</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Parry, James"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>17</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3A">
+            <day code="Tue">
+                <course crn="40125">
+                    <name>ACIT3640</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Klug, Bill"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3A">
+            <day code="Tue">
+                <course crn="34750">
+                    <name>ACIT3910</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Guichon, Patrick J"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>24</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3B">
+            <day code="Tue">
+                <course crn="40126">
+                    <name>ACIT3640</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Klug, Bill"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>19</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3B">
+            <day code="Tue">
+                <course crn="34751">
+                    <name>ACIT3910</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Guichon, Patrick J"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>19</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1A">
+            <day code="Wed">
+                <course crn="34322">
+                    <name>ACIT1620</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Hart, Richard"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1B">
+            <day code="Wed">
+                <course crn="44280">
+                    <name>ACIT1420</name>
+                    <type>A</type>
+                    <times start="1130" end="1420"></times>
+                    <instructor>" Zhang, Lei"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>24</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1C">
+            <day code="Wed">
+                <course crn="41875">
+                    <name>ORGB1100</name>
+                    <type>A</type>
+                    <times start="830" end="1050"></times>
+                    <instructor>" Morgan, Peter A"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.33</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2A">
+            <day code="Wed">
+                <course crn="44951">
+                    <name>ACIT2520</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Aibin, Michal"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>24</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2B">
+            <day code="Wed">
+                <course crn="45152">
+                    <name>ACIT2420</name>
+                    <type>A</type>
+                    <times start="1130" end="1420"></times>
+                    <instructor>" Parry, James"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>22</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1A">
+            <day code="Thu">
+                <course crn="34355">
+                    <name>ACIT1630</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Yu, Benjamin"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1A">
+            <day code="Thu">
+                <course crn="34331">
+                    <name>MATH1310</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Hajikolaei, Kambiz Haji"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1B">
+            <day code="Thu">
+                <course crn="34356">
+                    <name>ACIT1630</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Yu, Benjamin"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1C">
+            <day code="Thu">
+                <course crn="41870">
+                    <name>ACIT1620</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Hart, Richard"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2A">
+            <day code="Thu">
+                <course crn="44954">
+                    <name>ACIT2620</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Lane, Thomas F"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>22</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2A">
+            <day code="Thu">
+                <course crn="44974">
+                    <name>COMM2216</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Jamensky, Derek Allan"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>24</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2B">
+            <day code="Thu">
+                <course crn="44955">
+                    <name>ACIT2620</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Lane, Thomas F"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>13</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2B">
+            <day code="Thu">
+                <course crn="44975">
+                    <name>COMM2216</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Jamensky, Derek Allan"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>16</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3A">
+            <day code="Thu">
+                <course crn="45160">
+                    <name>ACIT3475</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" ,"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>0</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3A">
+            <day code="Thu">
+                <course crn="45161">
+                    <name>ACIT3645</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" O'Connor, Flynn"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>22</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3B">
+            <day code="Thu">
+                <course crn="40129">
+                    <name>ACIT3650</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Aibin, Michal"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>39</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3B">
+            <day code="Thu">
+                <course crn="45162">
+                    <name>ACIT3895</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Aibin, Michal"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>19</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1A">
+            <day code="Fri">
+                <course crn="44279">
+                    <name>ACIT1420</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Zhang, Lei"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1B">
+            <day code="Fri">
+                <course crn="34320">
+                    <name>ACIT1515</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Lane, Thomas F"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1B">
+            <day code="Fri">
+                <course crn="34332">
+                    <name>MATH1310</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Hajikolaei, Kambiz Haji"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1C">
+            <day code="Fri">
+                <course crn="41871">
+                    <name>ACIT1630</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Yu, Benjamin"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="1C">
+            <day code="Fri">
+                <course crn="41874">
+                    <name>MATH1310</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Hajikolaei, Kambiz Haji"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>25</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2A">
+            <day code="Fri">
+                <course crn="45153">
+                    <name>ACIT2831</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Lord, Trevor Dean"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>24</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="2B">
+            <day code="Fri">
+                <course crn="45154">
+                    <name>ACIT2831</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Lord, Trevor Dean"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>19</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3A">
+            <day code="Fri">
+                <course crn="44276">
+                    <name>ACIT3900</name>
+                    <type>A</type>
+                    <times start="1330" end="1620"></times>
+                    <instructor>" Aibin, Michal"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>20</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        
+        <set program="ACIT" set="3B">
+            <day code="Fri">
+                <course crn="44277">
+                    <name>ACIT3900</name>
+                    <type>A</type>
+                    <times start="830" end="1120"></times>
+                    <instructor>" Aibin, Michal"</instructor>
+                    <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                    <max>25</max>
+                    <act>20</act>
+                    <hrs>2.83</hrs>
+                </course>
+            </day>
+        </set>
+        </term>
