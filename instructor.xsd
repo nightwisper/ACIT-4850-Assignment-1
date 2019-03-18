@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="instructors" type="instructorsType"/>
+  <xs:complexType name="timesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="start" use="optional"/>
+        <xs:attribute type="xs:string" name="end" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="datesType">
+    <xs:simpleContent>
+      <xs:extension base="xs:string">
+        <xs:attribute type="xs:string" name="start" use="optional"/>
+        <xs:attribute type="xs:string" name="end" use="optional"/>
+      </xs:extension>
+    </xs:simpleContent>
+  </xs:complexType>
+  <xs:complexType name="courseType">
+    <xs:sequence>
+      <xs:element name="day">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+            <xs:enumeration value="Mon"/>
+            <xs:enumeration value="Tue"/>
+            <xs:enumeration value="Wed"/>
+            <xs:enumeration value="Thu"/>
+            <xs:enumeration value="Fri"/>
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="name"/>
+      <xs:element type="xs:string" name="type"/>
+      <xs:element type="timesType" name="times"/>
+      <xs:element type="datesType" name="dates"/>
+      <xs:element type="xs:string" name="max"/>
+      <xs:element name="act">
+        <xs:simpleType>
+          <xs:restriction base="xs:string">
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:element>
+      <xs:element type="xs:string" name="hrs"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="crn" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="instructorType">
+    <xs:sequence>
+      <xs:element type="courseType" name="course" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+    <xs:attribute type="xs:string" name="name" use="optional"/>
+  </xs:complexType>
+  <xs:complexType name="instructorsType">
+    <xs:sequence>
+      <xs:element type="instructorType" name="instructor" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<instructors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation='instructor.xsd'><instructor name=" Zhang, Lei"><course crn="44279">
+                        <day>Fri</day>
+                        <name>ACIT1420</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44280">
+                        <day>Wed</day>
+                        <name>ACIT1420</name>
+                        <type>A</type>
+                        <times start="1130" end="1420"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44946">
+                        <day>Tue</day>
+                        <name>ACIT1420</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="45155">
+                        <day>Mon</day>
+                        <name>ACIT3420</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="45156">
+                        <day>Mon</day>
+                        <name>ACIT3420</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>20</act>
+                        <hrs>2.83</hrs>
+                    </course></instructor><instructor name=" Lane, Thomas F"><course crn="34319">
+                        <day>Mon</day>
+                        <name>ACIT1515</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="34320">
+                        <day>Fri</day>
+                        <name>ACIT1515</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="41869">
+                        <day>Mon</day>
+                        <name>ACIT1515</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>26</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44954">
+                        <day>Thu</day>
+                        <name>ACIT2620</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>22</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44955">
+                        <day>Thu</day>
+                        <name>ACIT2620</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>13</act>
+                        <hrs>2.83</hrs>
+                    </course></instructor><instructor name=" Hart, Richard"><course crn="34322">
+                        <day>Wed</day>
+                        <name>ACIT1620</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="34323">
+                        <day>Tue</day>
+                        <name>ACIT1620</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="41870">
+                        <day>Thu</day>
+                        <name>ACIT1620</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="39753">
+                        <day>Tue</day>
+                        <name>COMP3130</name>
+                        <type>L</type>
+                        <times start="1330" end="1420"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>19</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="39754">
+                        <day>Tue</day>
+                        <name>COMP3130</name>
+                        <type>A</type>
+                        <times start="1430" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>19</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="41830">
+                        <day>Mon</day>
+                        <name>COMP3130</name>
+                        <type>L</type>
+                        <times start="1330" end="1420"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>20</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="41831">
+                        <day>Mon</day>
+                        <name>COMP3130</name>
+                        <type>A</type>
+                        <times start="1430" end="1620"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>20</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="41320">
+                        <day>Thu</day>
+                        <name>COMP1620</name>
+                        <type>L</type>
+                        <times start="1430" end="1520"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>23</max>
+                        <act>20</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="41321">
+                        <day>Thu</day>
+                        <name>COMP1620</name>
+                        <type>A</type>
+                        <times start="1230" end="1420"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>23</max>
+                        <act>20</act>
+                        <hrs>1.83</hrs>
+                    </course></instructor><instructor name=" Yu, Benjamin"><course crn="34355">
+                        <day>Thu</day>
+                        <name>ACIT1630</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="34356">
+                        <day>Thu</day>
+                        <name>ACIT1630</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="41871">
+                        <day>Fri</day>
+                        <name>ACIT1630</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="35504">
+                        <day>Mon</day>
+                        <name>COMP4921</name>
+                        <type>L</type>
+                        <times start="1430" end="1720"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>10</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="35505">
+                        <day>Mon</day>
+                        <name>COMP4921</name>
+                        <type>A</type>
+                        <times start="830" end="1020"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>10</act>
+                        <hrs>1.83</hrs>
+                    </course></instructor><instructor name=" Rockall, Matthew"><course crn="34328">
+                        <day>Mon</day>
+                        <name>COMM1116</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="34329">
+                        <day>Mon</day>
+                        <name>COMM1116</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>22</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="41873">
+                        <day>Tue</day>
+                        <name>COMM1116</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course></instructor><instructor name=" Hajikolaei, Kambiz Haji"><course crn="34331">
+                        <day>Thu</day>
+                        <name>MATH1310</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="34332">
+                        <day>Fri</day>
+                        <name>MATH1310</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="41874">
+                        <day>Fri</day>
+                        <name>MATH1310</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44977">
+                        <day>Mon</day>
+                        <name>MATH1350</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44978">
+                        <day>Mon</day>
+                        <name>MATH1350</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>18</act>
+                        <hrs>2.83</hrs>
+                    </course></instructor><instructor name=" Morgan, Peter A"><course crn="34334">
+                        <day>Tue</day>
+                        <name>ORGB1100</name>
+                        <type>A</type>
+                        <times start="830" end="1050"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>23</act>
+                        <hrs>2.33</hrs>
+                    </course><course crn="34335">
+                        <day>Tue</day>
+                        <name>ORGB1100</name>
+                        <type>A</type>
+                        <times start="1330" end="1550"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>21</act>
+                        <hrs>2.33</hrs>
+                    </course><course crn="41875">
+                        <day>Wed</day>
+                        <name>ORGB1100</name>
+                        <type>A</type>
+                        <times start="830" end="1050"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.33</hrs>
+                    </course></instructor><instructor name=" Parry, James"><course crn="45151">
+                        <day>Tue</day>
+                        <name>ACIT2420</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="45152">
+                        <day>Wed</day>
+                        <name>ACIT2420</name>
+                        <type>A</type>
+                        <times start="1130" end="1420"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>22</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44952">
+                        <day>Tue</day>
+                        <name>ACIT2520</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>17</act>
+                        <hrs>2.83</hrs>
+                    </course></instructor><instructor name=" Mulder, Mike"><course crn="44948">
+                        <day>Mon</day>
+                        <name>ACIT2515</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>21</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44949">
+                        <day>Mon</day>
+                        <name>ACIT2515</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>17</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="30389">
+                        <day>Fri</day>
+                        <name>COMP1510</name>
+                        <type>A</type>
+                        <times start="1530" end="1620"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>23</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="44940">
+                        <day>Fri</day>
+                        <name>COMP1510</name>
+                        <type>A</type>
+                        <times start="1630" end="1720"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>23</act>
+                        <hrs>0.83</hrs>
+                    </course></instructor><instructor name=" Aibin, Michal"><course crn="44951">
+                        <day>Wed</day>
+                        <name>ACIT2520</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44276">
+                        <day>Fri</day>
+                        <name>ACIT3900</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>20</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="40129">
+                        <day>Thu</day>
+                        <name>ACIT3650</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>39</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="45162">
+                        <day>Thu</day>
+                        <name>ACIT3895</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>19</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44277">
+                        <day>Fri</day>
+                        <name>ACIT3900</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>20</act>
+                        <hrs>2.83</hrs>
+                    </course></instructor><instructor name=" Lord, Trevor Dean"><course crn="45153">
+                        <day>Fri</day>
+                        <name>ACIT2831</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="45154">
+                        <day>Fri</day>
+                        <name>ACIT2831</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>19</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44910">
+                        <day>Mon</day>
+                        <name>COMP1100</name>
+                        <type>L</type>
+                        <times start="1530" end="1620"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>50</max>
+                        <act>47</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="44910">
+                        <day>Mon</day>
+                        <name>COMP1100</name>
+                        <type>L</type>
+                        <times start="1530" end="1620"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>50</max>
+                        <act>47</act>
+                        <hrs>0.83</hrs>
+                    </course></instructor><instructor name=" Jamensky, Derek Allan"><course crn="44974">
+                        <day>Thu</day>
+                        <name>COMM2216</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="44975">
+                        <day>Thu</day>
+                        <name>COMM2216</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>16</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="42156">
+                        <day>Fri</day>
+                        <name>COMM1100</name>
+                        <type>L</type>
+                        <times start="1330" end="1420"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>21</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="42157">
+                        <day>Fri</day>
+                        <name>COMM1100</name>
+                        <type>A</type>
+                        <times start="1430" end="1620"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>21</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="39094">
+                        <day>Wed</day>
+                        <name>COMM1100</name>
+                        <type>L</type>
+                        <times start="900" end="950"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>22</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="39095">
+                        <day>Wed</day>
+                        <name>COMM1100</name>
+                        <type>A</type>
+                        <times start="1000" end="1150"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>22</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="40635">
+                        <day>Fri</day>
+                        <name>COMM1100</name>
+                        <type>L</type>
+                        <times start="930" end="1020"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>23</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="40636">
+                        <day>Fri</day>
+                        <name>COMM1100</name>
+                        <type>A</type>
+                        <times start="1030" end="1220"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>23</act>
+                        <hrs>1.83</hrs>
+                    </course></instructor><instructor name=" Klug, Bill"><course crn="40125">
+                        <day>Tue</day>
+                        <name>ACIT3640</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="40126">
+                        <day>Tue</day>
+                        <name>ACIT3640</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>19</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="43982">
+                        <day>Mon</day>
+                        <name>COMP4964</name>
+                        <type>S</type>
+                        <times start="830" end="1020"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="43982">
+                        <day>Mon</day>
+                        <name>COMP4964</name>
+                        <type>S</type>
+                        <times start="1230" end="1520"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="43983">
+                        <day>Thu</day>
+                        <name>COMP4968</name>
+                        <type>S</type>
+                        <times start="1030" end="1220"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="43983">
+                        <day>Thu</day>
+                        <name>COMP4968</name>
+                        <type>S</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course></instructor><instructor name=" O'Connor, Flynn"><course crn="45161">
+                        <day>Thu</day>
+                        <name>ACIT3645</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>22</act>
+                        <hrs>2.83</hrs>
+                    </course></instructor><instructor name=" Shah, Vidhi"><course crn="45157">
+                        <day>Mon</day>
+                        <name>ACIT3771</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>22</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="45158">
+                        <day>Mon</day>
+                        <name>ACIT3771</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>19</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="45321">
+                        <day>Fri</day>
+                        <name>COMP1930</name>
+                        <type>L</type>
+                        <times start="830" end="1020"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>50</max>
+                        <act>47</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="45326">
+                        <day>Fri</day>
+                        <name>COMP1930</name>
+                        <type>A</type>
+                        <times start="1030" end="1220"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>23</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="45321">
+                        <day>Fri</day>
+                        <name>COMP1930</name>
+                        <type>L</type>
+                        <times start="830" end="1020"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>50</max>
+                        <act>47</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="45327">
+                        <day>Fri</day>
+                        <name>COMP1930</name>
+                        <type>A</type>
+                        <times start="1430" end="1620"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>1.83</hrs>
+                    </course></instructor><instructor name=" Guichon, Patrick J"><course crn="34750">
+                        <day>Tue</day>
+                        <name>ACIT3910</name>
+                        <type>A</type>
+                        <times start="830" end="1120"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="34751">
+                        <day>Tue</day>
+                        <name>ACIT3910</name>
+                        <type>A</type>
+                        <times start="1330" end="1620"></times>
+                        <dates start="05 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>19</act>
+                        <hrs>2.83</hrs>
+                    </course><course crn="30385">
+                        <day>Thu</day>
+                        <name>COMP1510</name>
+                        <type>A</type>
+                        <times start="930" end="1020"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="30385">
+                        <day>Fri</day>
+                        <name>COMP1510</name>
+                        <type>A</type>
+                        <times start="1430" end="1520"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="30386">
+                        <day>Fri</day>
+                        <name>COMP1510</name>
+                        <type>A</type>
+                        <times start="1530" end="1720"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>1.83</hrs>
+                    </course><course crn="30387">
+                        <day>Thu</day>
+                        <name>COMP1510</name>
+                        <type>A</type>
+                        <times start="1430" end="1520"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="30387">
+                        <day>Fri</day>
+                        <name>COMP1510</name>
+                        <type>A</type>
+                        <times start="830" end="920"></times>
+                        <dates start="04 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>24</act>
+                        <hrs>0.83</hrs>
+                    </course><course crn="30388">
+                        <day>Thu</day>
+                        <name>COMP1510</name>
+                        <type>A</type>
+                        <times start="1530" end="1620"></times>
+                        <dates start="10 Sep 2018" end="07 Dec 2018"></dates>
+                        <max>25</max>
+                        <act>25</act>
+                        <hrs>0.83</hrs>
+                    </course></instructor></instructors>

@@ -2,47 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8e8665d-5c9f-4743-ae2f-a4de6eb1d948" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sax/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sax/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sax/lib/sax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/sax/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/lib/bom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/lib/builder.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/lib/defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/lib/parser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/lib/processors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/lib/xml2js.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xml2js/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/Utility.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLAttribute.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLCData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLComment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDAttList.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDElement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDEntity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDTDNotation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDeclaration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocument.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLDocumentCB.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLElement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLNode.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLProcessingInstruction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLRaw.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStreamWriter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStringWriter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLStringifier.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLText.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/XMLWriterBase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/xmlbuilder/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instructor_template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instructor_template.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/term.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/undefined.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xml_template.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,7 +21,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/instructor.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="45" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -71,6 +48,11 @@
         <option value="$PROJECT_DIR$/index.js" />
         <option value="$PROJECT_DIR$/ACIT.xml" />
         <option value="$PROJECT_DIR$/schedules.dtd" />
+        <option value="$PROJECT_DIR$/instructor_template.xsd" />
+        <option value="$PROJECT_DIR$/test2.xml" />
+        <option value="$PROJECT_DIR$/instructor_template.xml" />
+        <option value="$PROJECT_DIR$/instructor.xml" />
+        <option value="$PROJECT_DIR$/test2.xsd" />
       </list>
     </option>
   </component>
@@ -86,7 +68,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -98,6 +79,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,11 +110,13 @@
       <updated>1549845142577</updated>
       <workItem from="1549845152963" duration="661000" />
       <workItem from="1549853808561" duration="1049000" />
+      <workItem from="1552868845817" duration="765000" />
+      <workItem from="1552872653467" duration="626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1710000" />
+    <option name="totallyTimeSpent" value="3101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -162,13 +146,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/schedules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/schedules.xml" />
     <entry file="file://$PROJECT_DIR$/schedules.dtd">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -187,6 +165,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="635" column="36" lean-forward="true" selection-start-line="737" selection-start-column="10" selection-end-line="737" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructor_template1.xsd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructor_template.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="22" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructor.dtd">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructor_template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="17" lean-forward="true" selection-end-line="1" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructor.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="39" column="43" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/instructor.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="41" />
         </state>
       </provider>
     </entry>

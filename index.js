@@ -6,6 +6,9 @@ var out = `<h1> Program: ${program} </h1><br>`;
 var xml = `<?xml version="1.0"?>
 <!DOCTYPE term SYSTEM "schedules.dtd">
 <term>`
+var instructorXML = `<?xml version="1.0"?>
+<instructors xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation='instructor.xsd'>`
 
 var xmldoc = require('xmldoc')
 
@@ -14,6 +17,56 @@ parseCSV('./data.csv').then((data) => {
     var valid_entries = data.filter((entry)=>{
         return entry.program === program;
     });
+
+    var instructors = []; valid_entries.forEach((entry) => {
+        instructors.push( entry.instructor )
+    })
+
+    var unique_instructors = instructors.filter((v, i, a) => a.indexOf(v) === i);
+    // console.log(unique_instructors)
+
+    var index = unique_instructors.indexOf(" ,");
+    if (index !== -1) unique_instructors.splice(index, 1);
+
+    var instructorData = [];
+
+    unique_instructors.forEach((instructor) => {
+        var rows = data.filter((entry) => {
+            return entry.instructor === instructor
+        })
+        x = {
+            name:instructor,
+            rows
+        }
+
+        instructorData.push(x);
+    });
+
+    instructorData.forEach((entry) => {
+        var outhtml = `<h2>${entry.name}</h2><br>`
+        var outXML = `<instructor name="${entry.name}">`;
+
+        entry.rows.forEach(line => {
+            outhtml+=`${JSON.stringify(line)}<br>`
+            outXML += `<course crn="${line.crn}">
+                        <day>${line.day}</day>
+                        <name>${line.course}</name>
+                        <type>${line.type}</type>
+                        <times start="${line.stime}" end="${line.etime}"></times>
+                        <dates start="${line.sdate}" end="${line.edate}"></dates>
+                        <max>${line.max}</max>
+                        <act>${line.act}</act>
+                        <hrs>${line.hrs}</hrs>
+                    </course>`
+        })
+
+        outXML += `</instructor>`
+        out += outhtml;
+        instructorXML += outXML;
+    });
+    instructorXML += `</instructors>`
+
+    fs.writeFileSync(`instructor.xml`, instructorXML);
 
     // console.log(valid_entries)
     var mon = valid_entries.filter((entry) => {
